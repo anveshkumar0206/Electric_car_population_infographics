@@ -12,3 +12,5 @@ Line grapgh for Battery_pack in kwh and Range in km,
 Scatter plot for different columns,
 Line chart to check range and top speed over models,
 3D visualization of scatter plot.
+
+Created interactive dashboard using Tableau
